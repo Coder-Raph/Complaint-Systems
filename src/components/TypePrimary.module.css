@@ -1,0 +1,27 @@
+.getStarted {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+}
+.typeprimary {
+  border-radius: var(--br-980xl);
+  background: radial-gradient(
+      50% 50%at 50% 50%,
+      rgba(255, 255, 255, 0) 43.25%,
+      rgba(255, 127, 55, 0.5)
+    ),
+    #ff7966;
+  box-shadow: 0 8px 25px rgba(255, 121, 102, 0.5);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 324px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-sm) var(--padding-5xl);
+  text-align: left;
+  font-size: var(--h2-size);
+  color: var(--white-white-100);
+  font-family: var(--h2);
+}

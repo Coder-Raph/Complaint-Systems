@@ -1,0 +1,183 @@
+.complaintRegardingTeaching,
+.view {
+  position: absolute;
+  line-height: 20px;
+  font-weight: 600;
+}
+.view {
+  top: 22px;
+  left: calc(50% + 449px);
+}
+.complaintRegardingTeaching {
+  width: calc(100% - 178px);
+  top: 12px;
+  left: 0;
+  font-size: var(--font-size-7xl);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  height: 40px;
+}
+.spotify {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--greyscale-grey-70);
+  box-sizing: border-box;
+  width: 1034px;
+  height: 64px;
+}
+.complaintRegardingBullying {
+  position: absolute;
+  top: 12px;
+  left: 0;
+  font-size: var(--font-size-7xl);
+  line-height: 20px;
+  font-weight: 600;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 872px;
+  height: 40px;
+}
+.youtubePremium {
+  position: absolute;
+  top: 72px;
+  left: 0;
+  border-radius: var(--br-base);
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--greyscale-grey-70);
+  box-sizing: border-box;
+  width: 1034px;
+  height: 64px;
+}
+.complaintRegardingTeaching1,
+.view2 {
+  position: absolute;
+  line-height: 20px;
+  font-weight: 600;
+}
+.view2 {
+  top: 24px;
+  left: calc(50% + 449px);
+}
+.complaintRegardingTeaching1 {
+  width: calc(100% - 185px);
+  top: 12px;
+  left: 0;
+  font-size: var(--font-size-7xl);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  height: 43px;
+}
+.microsoftOnedrive {
+  position: absolute;
+  top: 144px;
+  left: 0;
+  border-radius: var(--br-base);
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--greyscale-grey-70);
+  box-sizing: border-box;
+  width: 1034px;
+  height: 64px;
+}
+.view3 {
+  position: absolute;
+  top: 20px;
+  left: calc(50% + 446px);
+  line-height: 24px;
+  font-weight: 600;
+}
+.complaintRegardingCleanlines {
+  position: absolute;
+  width: calc(100% - 183px);
+  top: 22px;
+  left: 0;
+  font-size: var(--font-size-7xl);
+  line-height: 20px;
+  font-weight: 600;
+  text-align: left;
+  display: inline-block;
+  height: 65px;
+}
+.netflix,
+.view4 {
+  position: absolute;
+  font-size: var(--font-size-base);
+}
+.netflix {
+  top: 216px;
+  left: 0;
+  border-radius: var(--br-base);
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--greyscale-grey-70);
+  box-sizing: border-box;
+  width: 1034px;
+  height: 64px;
+}
+.view4 {
+  top: 20px;
+  left: calc(50% + 108px);
+  line-height: 24px;
+  font-weight: 600;
+}
+.complaintRegardingTeaching2,
+.div {
+  position: absolute;
+  top: 22px;
+  line-height: 20px;
+  font-weight: 600;
+}
+.complaintRegardingTeaching2 {
+  width: calc(100% - 183px);
+  left: 67px;
+  text-align: left;
+  display: inline-block;
+  height: 65px;
+}
+.div {
+  left: 11px;
+  text-align: center;
+}
+.netflix1,
+.netflix2,
+.netflix3,
+.netflix4 {
+  position: absolute;
+  top: 288px;
+  left: 0;
+  border-radius: var(--br-base);
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--greyscale-grey-70);
+  box-sizing: border-box;
+  width: 328px;
+  height: 64px;
+}
+.netflix2,
+.netflix3,
+.netflix4 {
+  top: 360px;
+}
+.netflix3,
+.netflix4 {
+  top: 432px;
+}
+.netflix4 {
+  top: 504px;
+}
+.items {
+  position: absolute;
+  top: 474px;
+  left: calc(50% - 517px);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1035px;
+  height: 286px;
+  overflow-y: auto;
+  text-align: right;
+  font-size: var(--h2-size);
+  color: var(--white-white-100);
+  font-family: var(--h2);
+}

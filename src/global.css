@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --h2: Inter;
+  --font-montserrat: Montserrat;
+
+  /* font sizes */
+  --h2-size: 14px;
+  --font-size-21xl: 40px;
+  --body-small-size: 12px;
+  --font-size-7xl: 26px;
+  --font-size-xl: 20px;
+  --font-size-26xl: 45px;
+  --font-size-31xl: 50px;
+  --font-size-lg: 18px;
+  --font-size-base: 16px;
+  --font-size-15xl: 34px;
+  --font-size-36xl: 55px;
+  --font-size-19xl: 38px;
+
+  /* Colors */
+  --greyscale-gray-100: #0e0e12;
+  --color-gray-100: rgba(255, 255, 255, 0.5);
+  --white-white-100: #fff;
+  --color-dimgray-100: rgba(78, 78, 97, 0.2);
+  --color-lightsteelblue: rgba(207, 207, 252, 0.15);
+  --greyscale-grey-30: #a2a2b5;
+  --greyscale-grey-70: #353542;
+  --color-gainsboro: rgba(222, 222, 224, 0.2);
+  --color-lime: #24ff00;
+  --greyscale-grey-40: #83839c;
+  --color-yellow: #faff00;
+  --color-red: #ff2000;
+  --color-black: #000;
+  --color-midnightblue: #00135a;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+
+  /* Paddings */
+  --padding-sm: 14px;
+  --padding-5xl: 24px;
+
+  /* Border radiuses */
+  --br-980xl: 999px;
+  --br-base: 16px;
+  --br-5xl: 24px;
+  --br-31xl: 50px;
+  --br-6xl: 25px;
+}

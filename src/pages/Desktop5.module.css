@@ -1,0 +1,111 @@
+.vectorIcon {
+  position: absolute;
+  height: 3%;
+  width: 4.14%;
+  top: 7.69%;
+  right: 93.05%;
+  bottom: 89.3%;
+  left: 2.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.bg,
+.lightBg {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.bg {
+  height: 100%;
+  bottom: 0;
+  border-radius: var(--br-5xl);
+  background-color: #282833;
+}
+.lightBg {
+  height: calc(100% - 432px);
+  bottom: 432px;
+  border-radius: var(--br-5xl) var(--br-5xl) 0 0;
+  background-color: var(--greyscale-grey-70);
+}
+.bgParent {
+  position: absolute;
+  height: calc(100% - 66px);
+  width: calc(100% - 568px);
+  top: 58px;
+  right: 284px;
+  bottom: 8px;
+  left: 284px;
+}
+.complaintBoxAssigned,
+.raphaelCommodore,
+.ticketNo67 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 151.5px);
+  letter-spacing: 0.2px;
+  line-height: 24px;
+}
+.raphaelCommodore,
+.ticketNo67 {
+  top: 183px;
+  left: calc(50% - 130.5px);
+}
+.ticketNo67 {
+  top: 235px;
+  left: calc(50% - 83.5px);
+}
+.clipart5464871Icon {
+  position: absolute;
+  top: 47px;
+  left: calc(50% - 57.5px);
+  border-radius: 70px;
+  width: 115px;
+  height: 115px;
+  object-fit: cover;
+}
+.complaintBoxAssignedParent {
+  position: absolute;
+  top: 78px;
+  left: calc(50% - 151px);
+  width: 303px;
+  height: 259px;
+}
+.desktop5Child {
+  position: absolute;
+  height: 3.25%;
+  width: 57.73%;
+  top: 45.43%;
+  right: 21.17%;
+  bottom: 51.32%;
+  left: 21.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.details {
+  position: absolute;
+  top: 431px;
+  left: calc(50% - 311px);
+  border-radius: var(--br-base);
+  background-color: var(--color-dimgray-100);
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--color-lightsteelblue);
+  box-sizing: border-box;
+  width: 614px;
+  height: 268px;
+}
+.desktop5 {
+  position: relative;
+  background-color: #131317;
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-7xl);
+  color: var(--white-white-100);
+  font-family: var(--h2);
+}
