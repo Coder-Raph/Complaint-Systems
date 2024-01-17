@@ -1,0 +1,38 @@
+.get-started2 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+}
+.button2,
+.button3 {
+  display: flex;
+  flex-direction: column;
+}
+.button3 {
+  border-radius: var(--br-980xl);
+  background: radial-gradient(
+      50% 50%at 50% 50%,
+      rgba(255, 255, 255, 0),
+      rgba(36, 0, 255, 0.5)
+    ),
+    #2400ff;
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 641px;
+  height: 95px;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-sm) var(--padding-5xl);
+}
+.button2 {
+  position: absolute;
+  top: 718px;
+  left: 280px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--white-white-100);
+  font-family: var(--h2);
+}

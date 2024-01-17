@@ -1,0 +1,328 @@
+.resolved {
+  margin-block-start: 0;
+  margin-block-end: 18px;
+}
+.complaint {
+  margin: 0;
+}
+.div1,
+.resolved-complaint {
+  position: absolute;
+  top: 18px;
+  left: calc(50% - 84px);
+  line-height: 16px;
+  font-weight: 600;
+}
+.div1 {
+  top: 91px;
+  left: calc(50% - 27px);
+  font-size: var(--font-size-21xl);
+  line-height: 20px;
+  color: var(--white-white-100);
+}
+.active-subs,
+.line {
+  position: absolute;
+  box-sizing: border-box;
+}
+.line {
+  top: -0.5px;
+  left: calc(50% - 23.5px);
+  border-top: 1px solid var(--color-lime);
+  width: 47px;
+  height: 1px;
+}
+.active-subs {
+  top: 263px;
+  left: 847px;
+  border-radius: var(--br-base);
+  background-color: var(--color-dimgray-100);
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--color-lightsteelblue);
+  width: 310px;
+  height: 135px;
+  color: var(--greyscale-grey-40);
+}
+.ellipse-icon {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 70px);
+  border-radius: 50%;
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+}
+.raphael-commodore1 {
+  position: absolute;
+  top: 161px;
+  left: 0;
+  line-height: 20px;
+  font-weight: 600;
+}
+.ellipse-parent {
+  position: absolute;
+  top: 41px;
+  left: calc(50% - 202px);
+  width: 404px;
+  height: 181px;
+  font-size: var(--font-size-21xl);
+}
+.complaint-regarding-teaching,
+.view {
+  position: absolute;
+  line-height: 20px;
+  font-weight: 600;
+}
+.view {
+  top: 22px;
+  left: calc(50% + 449px);
+}
+.complaint-regarding-teaching {
+  width: calc(100% - 178px);
+  top: 12px;
+  left: 0;
+  font-size: var(--font-size-7xl);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  height: 40px;
+}
+.spotify {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--greyscale-grey-70);
+  box-sizing: border-box;
+  width: 1034px;
+  height: 64px;
+}
+.complaint-regarding-bullying {
+  position: absolute;
+  top: 12px;
+  left: 0;
+  font-size: var(--font-size-7xl);
+  line-height: 20px;
+  font-weight: 600;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 872px;
+  height: 40px;
+}
+.youtube-premium {
+  position: absolute;
+  top: 72px;
+  left: 0;
+  border-radius: var(--br-base);
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--greyscale-grey-70);
+  box-sizing: border-box;
+  width: 1034px;
+  height: 64px;
+}
+.complaint-regarding-teaching1,
+.view2 {
+  position: absolute;
+  line-height: 20px;
+  font-weight: 600;
+}
+.view2 {
+  top: 24px;
+  left: calc(50% + 449px);
+}
+.complaint-regarding-teaching1 {
+  width: calc(100% - 185px);
+  top: 12px;
+  left: 0;
+  font-size: var(--font-size-7xl);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  height: 43px;
+}
+.microsoft-onedrive {
+  position: absolute;
+  top: 144px;
+  left: 0;
+  border-radius: var(--br-base);
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--greyscale-grey-70);
+  box-sizing: border-box;
+  width: 1034px;
+  height: 64px;
+}
+.view3 {
+  position: absolute;
+  top: 20px;
+  left: calc(50% + 446px);
+  line-height: 24px;
+  font-weight: 600;
+}
+.complaint-regarding-cleanlines {
+  position: absolute;
+  width: calc(100% - 183px);
+  top: 22px;
+  left: 0;
+  font-size: var(--font-size-7xl);
+  line-height: 20px;
+  font-weight: 600;
+  text-align: left;
+  display: inline-block;
+  height: 65px;
+}
+.items,
+.netflix {
+  position: absolute;
+}
+.netflix {
+  top: 216px;
+  left: 0;
+  border-radius: var(--br-base);
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--greyscale-grey-70);
+  box-sizing: border-box;
+  width: 1034px;
+  height: 64px;
+  font-size: var(--font-size-base);
+}
+.items {
+  top: 474px;
+  left: calc(50% - 517px);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1035px;
+  height: 939px;
+  overflow-y: auto;
+  text-align: right;
+  font-size: var(--h2-size);
+}
+.rectangle {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-980xl);
+  background: radial-gradient(
+      50% 50%at 50% 50%,
+      rgba(255, 255, 255, 0) 43.25%,
+      rgba(36, 0, 255, 0.5)
+    ),
+    #2400ff;
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+}
+.frame-icon {
+  position: absolute;
+  height: 14.04%;
+  width: 14.04%;
+  top: 42.98%;
+  right: 42.11%;
+  bottom: 42.98%;
+  left: 43.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent {
+  position: absolute;
+  height: 13.7%;
+  width: 8.91%;
+  top: 82.33%;
+  right: 45.55%;
+  bottom: 3.97%;
+  left: 45.55%;
+  cursor: pointer;
+}
+.rectangle1,
+.tabs-bg {
+  position: absolute;
+  top: 0;
+}
+.tabs-bg {
+  left: 470.9px;
+  border-radius: var(--br-base);
+  background-color: var(--greyscale-gray-100);
+  width: 470.9px;
+  height: 72px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.rectangle1 {
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: #4e4e61;
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 221.8px;
+  height: 51.8px;
+}
+.unresloved-complaints {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 106.9px);
+  line-height: 16px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 214px;
+  height: 24px;
+}
+.rectangle-group,
+.rectangle2 {
+  position: absolute;
+  top: 10.1px;
+  left: 239px;
+  width: 221.8px;
+  height: 51.8px;
+}
+.rectangle2 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  background-color: var(--greyscale-gray-100);
+  width: 223.2px;
+}
+.solved-compliants {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 90.6px);
+  line-height: 16px;
+  font-weight: 600;
+  display: inline-block;
+  width: 182px;
+  height: 24px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 10.1px;
+  left: 13px;
+  width: 223.2px;
+  height: 51.8px;
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+  color: var(--greyscale-grey-30);
+}
+.tabs-bg-parent {
+  position: absolute;
+  top: 408px;
+  left: 405px;
+  width: 470.9px;
+  height: 72px;
+  font-size: var(--font-size-lg);
+}
+.desktop-3 {
+  position: relative;
+  background-color: var(--greyscale-grey-70);
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-15xl);
+  color: var(--white-white-100);
+  font-family: var(--h2);
+}

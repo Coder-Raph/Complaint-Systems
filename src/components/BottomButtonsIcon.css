@@ -1,0 +1,7 @@
+.bottom-buttons-icon {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 386px);
+  width: 772px;
+  height: 147px;
+}

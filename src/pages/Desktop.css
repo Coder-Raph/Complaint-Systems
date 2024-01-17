@@ -1,0 +1,74 @@
+.cladding1-1-icon {
+  position: absolute;
+  top: -383px;
+  left: -167px;
+  width: 1646px;
+  height: 1085px;
+  object-fit: cover;
+}
+.desktop-1-child {
+  position: absolute;
+  top: 358px;
+  left: -0.1px;
+  background-color: #fffcfc;
+  width: 1529.7px;
+  height: 497.2px;
+  transform: rotate(11.47deg);
+  transform-origin: 0 0;
+}
+.desktop-1-item {
+  position: absolute;
+  top: calc(50% - 253px);
+  left: calc(50% - 280px);
+  border-radius: var(--br-31xl);
+  background-color: var(--white-white-100);
+  width: 560px;
+  height: 669px;
+}
+.students-complaint {
+  margin: 0;
+}
+.students-complaint-portal-container {
+  position: absolute;
+  top: 335px;
+  left: 370px;
+  white-space: pre-wrap;
+}
+.sign-in {
+  position: absolute;
+  top: 439px;
+  left: 571px;
+}
+.gctu-courses-removebg-preview-icon {
+  position: absolute;
+  top: 183px;
+  left: 378px;
+  width: 525px;
+  height: 175px;
+  object-fit: cover;
+}
+.desktop-1-child1,
+.desktop-1-inner {
+  position: absolute;
+  top: 498px;
+  left: 400px;
+  border-radius: var(--br-6xl);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 480px;
+  height: 66px;
+}
+.desktop-1-child1 {
+  top: 596px;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--white-white-100);
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-19xl);
+  color: var(--color-midnightblue);
+  font-family: var(--font-montserrat);
+}

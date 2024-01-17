@@ -1,0 +1,126 @@
+.vector-icon1 {
+  position: absolute;
+  height: 6.37%;
+  width: 1.95%;
+  top: 6.01%;
+  right: 94.14%;
+  bottom: 87.62%;
+  left: 3.91%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.student-complaints {
+  position: absolute;
+  top: calc(50% - 361px);
+  left: calc(50% - 295px);
+  font-size: var(--font-size-31xl);
+  line-height: 40px;
+}
+.students-name {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 164.5px);
+  letter-spacing: 0.2px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 294.2px;
+  height: 20.9px;
+}
+.group-child {
+  position: absolute;
+  top: 45.5px;
+  left: calc(50% - 401px);
+  border-radius: var(--br-31xl);
+  border: 5px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 802px;
+  height: 76.1px;
+}
+.description-parent,
+.phone-number,
+.students-name-parent {
+  position: absolute;
+  top: 122px;
+  left: calc(50% - 435px);
+  width: 792px;
+  height: 116.6px;
+}
+.description-parent,
+.phone-number {
+  top: 420px;
+}
+.phone-number {
+  top: 0;
+  left: calc(50% - 123.6px);
+  letter-spacing: 0.2px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 213.2px;
+  height: 20.9px;
+}
+.phone-number-parent {
+  position: absolute;
+  top: 569px;
+  left: calc(50% - 435px);
+  width: 792px;
+  height: 116.6px;
+  font-size: 29px;
+}
+.assign-to-group,
+.assign-to-parent,
+.index-number {
+  position: absolute;
+  top: 718px;
+  left: calc(50% - 435px);
+  width: 792px;
+  height: 116.6px;
+}
+.assign-to-group,
+.index-number {
+  top: 867px;
+}
+.index-number {
+  top: 0;
+  left: calc(50% - 148px);
+  letter-spacing: 0.2px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 262px;
+  height: 20.9px;
+}
+.index-number-parent {
+  position: absolute;
+  top: 271px;
+  left: calc(50% - 435px);
+  width: 792px;
+  height: 116.6px;
+}
+.desktop-4,
+.desktop-4-child {
+  background-color: var(--greyscale-grey-70);
+}
+.desktop-4-child {
+  position: absolute;
+  top: 711px;
+  left: calc(50% - 642px);
+  width: 1285px;
+  height: 129px;
+}
+.desktop-4 {
+  position: relative;
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  color: var(--white-white-100);
+  font-family: var(--h2);
+}
